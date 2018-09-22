@@ -1,0 +1,26 @@
+_repo: Historical-Record-of-the-Fourteenth-or-the-King-s-Regiment-of-Light-Dragoons-Containing-an-Ac__54939
+_version: 0.0.1
+alternative_title: Historical record of the 14th Dragoons
+creator:
+  author:
+    agent_name: Cannon, Richard
+    birthdate: 1779
+    deathdate: 1865
+    gutenberg_agent_id: '45414'
+    url: http://www.gutenberg.org/2009/agents/45414
+description: ''
+gutenberg_issued: '2017-06-20'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '54939'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Great Britain. Army. Regiment of Light Dragoons, 14th'
+- !lcc 'UA'
+- GITenberg
+title: "Historical Record of the Fourteenth, or the King's, Regiment of Light Dragoons\r\
+  \nContaining an Account of the Formation of the Regiment and of Its Subsequent Services"
+url: http://www.gutenberg.org/ebooks/54939
